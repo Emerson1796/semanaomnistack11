@@ -10,8 +10,9 @@ O projeto Be The Hero servirá como meio de comunicação entre ONG's que necess
 
 Técnologias 💻
 
-React: Frontend
-
-NodeJS: Backend
-
-React Native: Mobile
+ * Node.js, cross-env, Express (backend)
+ * SQLite, Knex (database)
+ * React, Axios (frontend)
+ * React Native, Expo (mobile)
+ * Celebrate/Jest (validations)
+ * Supertest (tests)
